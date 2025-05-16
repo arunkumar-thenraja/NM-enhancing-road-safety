@@ -1,0 +1,7 @@
+Accident_Severity,Weather_Conditions,Road_Type,Time,Accident_Type
+2,Fine,Single Carriageway,13:45,Collision
+3,Raining,Dual Carriageway,07:30,Skid
+1,Fog,Roundabout,22:10,Rear-End
+2,Fine,Single Carriageway,15:20,Collision
+3,Heavy Snow,Dual Carriageway,08:15,Skid
+1,Fog,Roundabout,23:00,Rear-End
